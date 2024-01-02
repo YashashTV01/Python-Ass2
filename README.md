@@ -2,11 +2,12 @@
 
 ## Introduction
 
-This project involves marking grow sensor locations on a UK map using Python. The program reads a dataset containing sensor locations and plots them on the map, generating an output image.
+This project involves marking grow sensor locations on a UK map using Python.<br>
+The program reads a dataset containing sensor locations and plots them on the map, generating an output image.
 
 ## Requirements
 
-Ensure you have the following packages installed:
+We need to ensure the following packages installed:
 
 - pandas
 - matplotlib
