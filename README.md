@@ -12,5 +12,7 @@ Ensure you have the following packages installed:
 - matplotlib
 
 
-##Output of the project
+## Output of the project
+
+
 ![Grow Sensor output](2546871-pythonAss2(growSensoruk)/growSensorUK/YashashGrowLocationsMaps.png)
